@@ -3,7 +3,7 @@ import InclusiveGovServices from './components/InclusiveGovServices';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <InclusiveGovServices />
     </div>
   );
